@@ -1,4 +1,4 @@
-*UPLOAD FILE
+<h2>UPLOAD FILE</h2>
 
 The Formidable Module
 There is a very good module for working with file uploads, called "Formidable".
