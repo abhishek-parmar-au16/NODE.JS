@@ -11,8 +11,9 @@ Send an Email
 Now you are ready to send emails from your server.
 
 Use the username and password from your selected email provider to send an email. This tutorial will show you how to use your Gmail account to send an email:
+ 
 
-Example
+Problem 
 --->var nodemailer = require('nodemailer');
 --->
 --->var transporter = nodemailer.createTransport({
