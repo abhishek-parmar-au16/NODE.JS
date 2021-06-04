@@ -1,4 +1,4 @@
-An introduction to the npm package manager
+<h2>An introduction to the npm package manager</h2>
 
 
 TABLE OF CONTENTS
