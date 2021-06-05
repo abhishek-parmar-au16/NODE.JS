@@ -1,4 +1,4 @@
-<h3> Differentiate between callback functions and anonymous function. Give an example of both</h3>
+<h2> Differentiate between callback functions and anonymous function. Give an example of both</h2>
 
 
 Callback and Anonymous functions are used for passing to other functions like Array.prototype.map() 
