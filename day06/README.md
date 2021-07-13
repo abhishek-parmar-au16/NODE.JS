@@ -4,7 +4,7 @@
 Callback and Anonymous functions are used for passing to other functions like Array.prototype.map() 
 for them to use. It’s a way to pass logic just as you would pass an object. Consider the example code below;
 
-var Arr = [2,3,4,5]
+var Arr = [2,3,4,5,6]
 <h4>Callback function</h4>
 -->function myCallback(x){
 --> return x+1;
